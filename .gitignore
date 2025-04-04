@@ -1,0 +1,4 @@
+__pycache__/ #python cache files that are generated while script running .
+DS_Store #OS-specific metadata files that don’t need to be in Git. 
+*.pkl  # Model files (saved using Joblib) should not be pushed directly due to their large size. 
+*.log  #Log files are temporary and not needed in version control.
