@@ -7,7 +7,7 @@ This project focuses on building a machine learning model to recognize handwritt
 - The model recognises the digit.
 - For the next prediction, first delete written digit by pressing the delete button below the canvas then write another digit.
   
-# Wake up the app, it will take some time. If the app opens in dark theme, change it to light in settings for better visibility.
+# Wake up the app, it will take some time.
 
 https://digits-by-ml.streamlit.app/
 
