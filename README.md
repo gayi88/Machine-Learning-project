@@ -6,7 +6,7 @@ This project focuses on building a machine learning model to recognize handwritt
 - Users can write digits in provided canvas and click predict button.
 - The model recognises the digit.
   
-# Wake up the app, it will take some time. in app setting, change theme color for better visibility.
+# Wake up the app, it will take some time. In app settings, change theme to light for better visibility.
 
 https://digits-by-ml.streamlit.app/
 
