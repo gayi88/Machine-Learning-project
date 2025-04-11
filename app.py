@@ -58,7 +58,7 @@ except Exception as e:
     
 # Create a canvas for drawing digits
 canvas_result = st_canvas(
-    stroke_width=30,
+    stroke_width=40,
     stroke_color="black",
     background_color="white",
     width=280,
